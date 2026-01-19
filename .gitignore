@@ -12,7 +12,7 @@ env/
 
 # Environment / secrets
 .env
-.env.*
+
 *.env
 
 # Logs
